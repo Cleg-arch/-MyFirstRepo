@@ -1,0 +1,5 @@
+ Brief Introduction About Myself 
+My Name is Philemon 
+I am excited to begin learning Git and GitHub.
+I enjoy coding,drumming,football and watching movies 
+I’m looking forward to improving my technical skills and collaborating on projects
